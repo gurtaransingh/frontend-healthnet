@@ -1,0 +1,213 @@
+/*===============Rtl Style Start===================*/
+
+.sidemenu-area {
+    position: fixed;
+    left: -420px;
+
+}
+.sidemenu-show {
+    left: -14px;
+    text-align: right;
+    right: unset;
+}
+
+.close-btn {
+    left: unset;
+    right: 10px;
+}
+.side-address ul {
+    text-align: right;
+}
+.hero-content {
+    text-align: right;
+}
+.hlp-center-content {
+    text-align: right;
+}
+
+.hlp-center-thumb {
+    margin-right: 0;
+    margin-left: 30px;
+}
+.section-title {
+    width: 60%;
+    margin: auto;
+    margin-bottom: 60px;
+}
+.single-service {
+    margin-bottom: 45px;
+    text-align: right;
+}
+.doctors-carousel {
+    direction: ltr;
+}
+.appnt-form {
+    text-align: right;
+}
+.testimonial-area {
+    direction: ltr;
+}
+.blog-single {
+    text-align: right;
+}
+.footer-top {
+    text-align: right;
+}
+.widget-opening-hours li span {
+    float: left;
+}
+.tst-content {
+    text-align: right;
+}
+.tst-meta .text {
+    flex: inherit;
+}
+
+form.subscription .form-control {
+
+    text-align: left;
+}
+.mt-doctor .content {
+    text-align: right;
+}
+.we-offer-area {
+    direction: ltr;
+}
+.wd-content {
+    padding-left: 0;
+    text-align: right;
+}
+.wd-content .section-title {
+    text-align: right;
+    margin-bottom: 24px;
+    width: 100%;
+}
+
+.hero-two-content {
+    width: 60%;
+    margin-right: auto;
+}
+.need-doctor {
+    width: 40%;
+    margin-right: auto;
+}
+.hero-three-content {
+    width: 50%;
+    margin-right: auto;
+    text-align: right;
+}
+.about-content {
+    padding-right: 0;
+    text-align: right;
+}
+.about-info-list li::before {
+    margin-right: 0;
+    margin-left: 15px;
+}
+.breadcumb-area {
+    text-align: right;
+}
+
+.medical-department-content {
+    text-align: right;
+}
+.recent-post {
+    text-align: right;
+}
+.widget.widget-tags {
+    text-align: right;
+}
+.widget-recent-post {
+    text-align: right;
+}
+.blog-meta-top li i {
+    margin-right: 0;
+    margin-left: 5px;
+}
+.comment-wrapper {
+    text-align: right;
+}
+.leave-comments {
+    text-align: right;
+}
+.logo {
+    text-align: right;
+}
+.cnt-style1-content {
+    text-align: right;
+}
+form#contactForm2 {
+    text-align: right;
+}
+
+.doctor-bio {
+    text-align: right;
+}
+
+.faq-question {
+    text-align: right;
+}
+.slicknav_btn {
+    float: left;
+}
+
+.main-menu nav ul li.tel {
+    position: absolute;
+    right: unset;
+    left: 0;
+}
+.covid-h-content {
+    text-align: center !important;
+    width: 100% !important;
+}
+
+
+/*===============Rtl Style End===================*/
+
+
+/*================Responsive  Start==============*/
+
+/* Large devices (desktops, less than 1200px)*/
+@media only screen and (max-width: 1199px) {
+
+
+
+}
+
+@media only screen and (max-width: 991px) {
+
+    .ht-contacts li a {
+        font-size: 10px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .hero-two-content {
+        width: 100%;
+        text-align: right;
+    }
+    .need-doctor {
+        width: 80%;
+        margin-right: auto;
+    }
+    .hero-three-content {
+        width: 100%;
+        text-align: right;
+    }
+    .hero3-right-img {
+        width: 100%;
+    }
+    .socila-media li {
+        margin-right: 0;
+        margin-left: 10px;
+    }
+    
+}
+
+@media only screen and (max-width: 400px) {
+
+
+
+}
+
+/*================Responsive End==============*/
